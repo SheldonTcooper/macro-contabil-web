@@ -13,8 +13,8 @@ export default function Header() {
           <Image
             src="/images/logo.svg"
             alt="Macro Contábil"
-            width={40}
-            height={40}
+            width={80}
+            height={142}
             className="h-10 w-auto"
             priority
           />
